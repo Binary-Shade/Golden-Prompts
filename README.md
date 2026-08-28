@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="goldenprompt.png" src="https://github.com/user-attachments/assets/8e29a4e1-d0a2-4aa2-a538-70a6dcafb86e" />
+<img width="1536" height="1024" alt="golden repo" src="https://github.com/user-attachments/assets/f1de5956-e206-4e52-83c9-9472ac6c970e" />
 ## Golden Prompts
 
 > A curated collection of powerful, practical, and reusable AI prompts for developers, vibe coders, builders, designers, researchers, and creators.
