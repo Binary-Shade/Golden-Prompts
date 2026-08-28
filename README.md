@@ -1,11 +1,12 @@
-<img
-  width="1536"
-  height="1024"
-  alt="Golden Prompts"
-  src="https://res.cloudinary.com/dw6d0ejuv/image/upload/v1787896464/ChatGPT_Image_Aug_28_2026_11_19_05_AM_1_ihpwcy.png"
-/>
-
 ## Golden Prompts
+
+<p align="center">
+  <img
+    src="https://res.cloudinary.com/dw6d0ejuv/image/upload/v1787896464/ChatGPT_Image_Aug_28_2026_11_19_05_AM_1_ihpwcy.png"
+    alt="Golden Prompts"
+    width="100%"
+  />
+</p>
 
 > A curated collection of powerful, practical, and reusable AI prompts for developers, vibe coders, builders, designers, researchers, and creators.
 
