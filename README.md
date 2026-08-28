@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="golden repo" src="https://github.com/user-attachments/assets/f1de5956-e206-4e52-83c9-9472ac6c970e" />
+<img width="1536" height="1024" alt="golden repo" src="[https://github.com/user-attachments/assets/f1de5956-e206-4e52-83c9-9472ac6c970e](https://res.cloudinary.com/dw6d0ejuv/image/upload/v1787896464/ChatGPT_Image_Aug_28_2026_11_19_05_AM_1_ihpwcy.png)" />
 ## Golden Prompts
 
 > A curated collection of powerful, practical, and reusable AI prompts for developers, vibe coders, builders, designers, researchers, and creators.
