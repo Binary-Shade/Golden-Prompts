@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://res.cloudinary.com/dw6d0ejuv/image/upload/v1787896464/ChatGPT_Image_Aug_28_2026_11_19_05_AM_1_ihpwcy.png"
+    src="https://github.com/user-attachments/assets/a70b7c91-cb8e-40f0-b2f5-145b987acc87"
     alt="Golden Prompts"
     width="100%"
   />
